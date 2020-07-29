@@ -1,2 +1,2 @@
 # GreenVsRed
-Project for MentorMate
+Green VS Red game.
